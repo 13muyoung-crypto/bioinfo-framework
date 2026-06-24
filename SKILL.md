@@ -1,4 +1,4 @@
----
+﻿---
 name: bioinfo-navigator
 description: >
   生信分析导航台——基于杨英淇《零代码从框架入门生信》的交互式分析导航系统。
